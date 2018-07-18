@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ftp.xuegaogame.com:8086/tafang/CN/IOS/test.ipa</string>
+					<string>http://192.168.1.149/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
