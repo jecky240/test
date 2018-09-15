@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>XXXasdasd</string>
+				<string>com.xuegao.test</string>
 				<key>bundle-version</key>
-				<string>1.0.123</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
